@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders App 1`] = `
+<BrowserRouter>
+  <h1>
+    My Color App on all pages
+  </h1>
+  <Switch>
+    <Route
+      component={[Function]}
+      path="/today"
+    />
+    <Route
+      component={[Function]}
+      path="/title"
+    />
+    <Route
+      component={[Function]}
+      path="/counter"
+    />
+    <Route
+      component={[Function]}
+      path="/color"
+    />
+    <Route
+      component={[Function]}
+      path="/colorHooks"
+    />
+    <Route
+      component={[Function]}
+      exact={true}
+      path="/:name"
+    />
+  </Switch>
+</BrowserRouter>
+`;

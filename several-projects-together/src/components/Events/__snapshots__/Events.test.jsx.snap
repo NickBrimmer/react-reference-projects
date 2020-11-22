@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Events component renders Events 1`] = `
+<ul>
+  <li
+    key="0"
+  >
+    <Entry
+      text="this app was worked on"
+      year="2020"
+    />
+  </li>
+</ul>
+`;

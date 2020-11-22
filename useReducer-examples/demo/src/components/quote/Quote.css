@@ -1,0 +1,25 @@
+@import '../../styles/variables.css';
+
+.Quote {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  transition: 0.2s;
+
+  img {
+    width: 10rem;
+  }
+}
+
+.Quote-light {
+  composes: Quote;
+
+  background-color: var(--light-bg-color);
+  color: var(--light-fg-color);
+}
+
+.Quote-dark {
+  composes: Quote;
+
+  background-color: var(--dark-bg-color);
+  color: var(--dark-fg-color);
+}

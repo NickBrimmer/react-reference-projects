@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ColorControls component renders the component 1`] = `
+<Fragment>
+  <label
+    htmlFor="text"
+  >
+    Text
+  </label>
+  <input
+    id="text"
+    name="text"
+    onChange={[MockFunction]}
+    type="text"
+    value="Hello!"
+  />
+  <label
+    htmlFor="backgroundColor"
+  >
+    Background Color
+  </label>
+  <input
+    id="backgroundColor"
+    name="backgroundColor"
+    onChange={[MockFunction]}
+    type="color"
+    value="lightskyblue"
+  />
+  <label
+    htmlFor="textColor"
+  >
+    Text Color
+  </label>
+  <input
+    id="textColor"
+    name="textColor"
+    onChange={[MockFunction]}
+    type="color"
+    value="red"
+  />
+</Fragment>
+`;

@@ -1,0 +1,13 @@
+.EventColumns {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+  li {
+    transition: 0.4s;
+    opacity: 1;
+
+    &:hover {
+      opacity: 0.4;
+    }
+  }
+}

@@ -1,0 +1,21 @@
+.ImageGallery {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+  img {
+    width: 33vw;
+  }
+
+  li {
+    list-style-type: none;
+  }
+}
+
+.cat {
+
+}
+
+.dog {
+  
+}

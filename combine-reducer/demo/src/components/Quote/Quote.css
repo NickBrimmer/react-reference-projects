@@ -1,0 +1,12 @@
+@import '../../styles/variables.css';
+
+.Quote {
+  padding: 1rem;
+  text-align: center;
+  color: var(--secondary-color);
+  
+  img {
+    max-width: 10rem;
+    max-height: 10rem;
+  }
+}

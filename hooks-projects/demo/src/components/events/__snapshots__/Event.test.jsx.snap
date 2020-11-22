@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Event component renders Event 1`] = `
+<p>
+  1455
+   - 
+  Stuff happened
+</p>
+`;

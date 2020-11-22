@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Births component renders Births 1`] = `
+<ul>
+  <li
+    key="0"
+  >
+    <Entry
+      text="this app"
+      year="2020"
+    />
+  </li>
+</ul>
+`;

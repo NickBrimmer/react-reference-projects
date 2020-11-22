@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Entry component renders Entry 1`] = `
+<section>
+  <p>
+    2020
+  </p>
+  <p>
+    this app
+  </p>
+</section>
+`;

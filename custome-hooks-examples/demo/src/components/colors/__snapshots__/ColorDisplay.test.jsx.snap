@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ColorDisplay component renders ColorDisplay 1`] = `
+<section
+  data-testid="color-display"
+  style={
+    Object {
+      "backgroundColor": "lightskyblue",
+      "height": "500px",
+      "width": "500px",
+    }
+  }
+>
+  <p
+    style={
+      Object {
+        "color": "red",
+      }
+    }
+  >
+    test
+  </p>
+</section>
+`;
